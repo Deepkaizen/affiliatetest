@@ -1,2 +1,7 @@
 Tracking transactions via paypal from vietnamese customers is a success
 Affilaitely, shopify and paypal are all integrated
+
+final step of paying out affilaites failed.
+=Paypal Error: Client Authentication failed
+I will redo authentication steps to integrate paypal and affiatly on deve .paypal
+issue has been sent to affilately
